@@ -11,7 +11,7 @@ export default function Home() {
       <section className="relative py-20 text-center">
         <div className="absolute inset-0 -z-10 bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_bottom,#8080800a_1px,transparent_1px)] bg-[size:4rem_4rem]"></div>
         <h1 className="text-4xl font-bold md:text-6xl">
-          Find Your Dream Job Today
+          Don't Search, Find Your Dream Job Today
         </h1>
         <p className="mt-4 text-xl text-muted-foreground">
           Discover opportunities that match your skills and aspirations
